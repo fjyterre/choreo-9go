@@ -8,7 +8,7 @@ const NEZHA_PORT = process.env.NEZHA_PORT || '5555';                     // 哪�
 const NEZHA_KEY = process.env.NEZHA_KEY || '5ddVS93Eq0Uc9he880';
 const ARGO_DOMAIN = process.env.ARGO_DOMAIN || 'dhjkiuvn.laohong.us.kg';     // 建议使用token，argo端口8080，cf后台设置需对应,使用json需上传json和yml文件至files目录
 const ARGO_AUTH = process.env.ARGO_AUTH || 'eyJhIjoiZjFhNjE1NWM4NzVjMmFhNTY1YTMxYmMxNzU2NjljNDQiLCJ0IjoiZDU5Yjg3ZjYtMWFlNy00NzhjLTk3OWMtNDM0MDg1NGQyMzM0IiwicyI6IlpUTmpOVGN3T1dNdFl6TTRaUzAwWlRobExXRTBPV0V0TVRrM01HWmhZV05pWWpWayJ9';
-const CFIP = process.env.CFIP || 'na.ma';
+const CFIP = process.env.CFIP || '188.114.96.208';
 const NAME = process.env.NAME || 'Choreo';
 
 // root route
